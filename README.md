@@ -1,2 +1,2 @@
 # complete_projects
-repo thsat contains all of the completed projects
+repo that contains all of the completed projects

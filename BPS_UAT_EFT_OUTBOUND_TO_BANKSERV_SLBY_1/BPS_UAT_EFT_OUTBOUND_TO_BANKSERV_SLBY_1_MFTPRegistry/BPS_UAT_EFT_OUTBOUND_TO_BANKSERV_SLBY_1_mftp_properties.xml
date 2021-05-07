@@ -1,0 +1,15 @@
+<mftp>
+    <transferName>BPS_UAT_EFT_OUTBOUND_TO_BANKSERV_SLBY_1</transferName>
+    <environment>dev</environment>
+    <source>
+        <name>Source</name>
+        <url>ID1[SFTP]BoAthens@196.6.202.25:22/ftp</url>
+        <regex>*.*</regex>
+    </source>
+    <destinations>
+        <destination>
+            <name>Destination1</name>
+            <url></url>
+        </destination>
+    </destinations>
+</mftp>

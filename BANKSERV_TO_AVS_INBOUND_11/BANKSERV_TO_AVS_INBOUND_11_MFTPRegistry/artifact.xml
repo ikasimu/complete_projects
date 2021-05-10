@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="BANKSERV_TO_AVS_INBOUND_11_mftp_properties_xml" groupId="com.example.BANKSERV_TO_AVS_INBOUND_11_MFTP.resource" version="1.0.0" type="registry/resource" serverRole="EnterpriseIntegrator">
+        <item>
+            <file>BANKSERV_TO_AVS_INBOUND_11_mftp_properties.xml</file>
+            <path>/_system/governance/custom</path>
+            <mediaType>application/xml</mediaType>
+        </item>
+    </artifact>
+</artifacts>
